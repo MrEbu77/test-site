@@ -1,0 +1,38 @@
+img{
+    width: 170px;
+    height:170px;
+    padding: 5px 10px;
+    margin: 3px;
+
+}
+
+p {
+    color: red;
+    border: 1px solid green;
+    padding: 1px 10px;
+    margin: 2px;
+}
+#mycat{
+    color: green;
+}
+
+h1{
+    background-color: blue;
+    color: white;
+    
+}
+
+.mf {
+    color: tomato;
+}
+ 
+html {
+    background-color:brown;
+}
+
+body{
+    width: 1400px;
+    margin: 0 auto;
+    background-color: aliceblue;
+    padding: 1px solid black;
+}
